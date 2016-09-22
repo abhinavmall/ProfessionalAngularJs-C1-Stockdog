@@ -1,7 +1,10 @@
 {
   "name": "stockdog",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^0.4.5"
+  },
   "devDependencies": {
     "grunt": "^0.4.1",
     "grunt-autoprefixer": "^0.7.3",
